@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Game Development using Unity.
+- 🌱 And I’m currently learning creating,optimizing and managing Mobile Games(Mostly for Android); learning Machine Learning,git,github,Unity Learn courses
 <!--
 **Seyidahmetyogurtcu/Seyidahmetyogurtcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
